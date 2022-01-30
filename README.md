@@ -36,3 +36,9 @@ Conducting an analysis and creating visuals using rideshare data for PyBer to he
 <img width="659" alt="Screen Shot 2022-01-30 at 4 05 10 PM" src="https://user-images.githubusercontent.com/95730183/151721694-39bd163d-b873-4c7c-8ffe-978e634c7a3f.png">
 
 ## Summary
+### Recommendations
+Business recommendations for addressing any disparities among the city types:
+1.) 
+2.) 
+3.)
+
