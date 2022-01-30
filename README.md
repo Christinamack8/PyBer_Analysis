@@ -44,5 +44,5 @@ Business recommendations for addressing any disparities among the city types:
 
 2.) Pyber is not a reasonable transportion option for rural riders do to high fare prices.  If these were underserved areas that need access to rideshare the price of the fares would need to be lower and could possibly be offset by higher prices of fares in urban areas
 
-3.) Perhaphs there could be a memebership/loyalty program to help with more stable profits and help ensure fair prices are more consitent for all demographics of riders.
+3.) Perhaphs there could be a memebership/loyalty program to help with more stable profits and help ensure fair prices are more consistent for all demographics of riders.
 
