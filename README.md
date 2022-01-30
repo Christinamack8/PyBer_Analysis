@@ -38,6 +38,8 @@ Conducting an analysis and creating visuals using rideshare data for PyBer to he
 ## Summary
 ### Recommendations
 Business recommendations for addressing any disparities among the city types:
+
+
 1.) Pyber should inveest in advertising in Urban areas to attract more riders as there seems to be a disproportionate amount of driver to riders.
 
 2.) Pyber is not a reasonable transportion option for rural riders do to high fare prices.  If these were underserved areas that need access to rideshare the price of the fares would need to be lower and could possibly be offset by higher prices of fares in urban areas
